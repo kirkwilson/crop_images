@@ -19,6 +19,7 @@ crop_images.pynb is a notebook that takes uploaded images and crops them.
 ---
 
 **How to Run**
+Open the `crop_images.ipynb` in Colaboratory.
 
 Set the variables that define the crop area (`crop_anchor_x`, `crop_anchor_y`, `crop_height`, and `crop_width`).
 
